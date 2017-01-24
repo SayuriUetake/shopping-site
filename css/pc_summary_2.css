@@ -2,6 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
 @import url(./normalize.css);
 @import url(./skelton.css);
-@import url(./base_design.css);
-@import url(./pc_design.css);
-@import url(./pc_design_2nd.css);
+@import url(./common.css);
+@import url(./pc.css);
+@import url(./pc_2.css);

@@ -1,4 +1,4 @@
-/*! サブメニューのパカパカする動きを実装 */
+/*! openlink */
 $(document).ready(function(){
 
   $("#PAGE_LINK h4").click(function () { // id="PAGE_LINK h4"を押したら実行
