@@ -218,9 +218,13 @@ background: url(../image/common/border.gif) repeat-x 0 center;
 	flex-direction:row;
 	flex-wrap: wrap;
 }
-#POPULAR_ITEMS_LIST li,#WATCH_ITEMS_LIST li,#CATEGORY_LIST li{
-	float:left;
+
+
+#POPULAR_ITEMS_LIST ul,#WATCH_ITEMS_LIST ul,#CATEGORY_LIST ul {
+	display: flex;
+	flex-wrap: wrap;
 }
+
 
 .item_list li a{
 	display: block;
